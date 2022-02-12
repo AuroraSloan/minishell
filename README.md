@@ -49,11 +49,11 @@ git clone https://github.com/AuroraSloan/minishell.git
 ```
 ----
 ### Usage
-First, create the executable with make
-`make` - compiles the minishell executable
-`make clean` - removes all object files
-`make fclean` - removes all object files and the executable
-`make re` - removes all object files and the executable before recompiling the program
+First, create the executable with make</br>
+`make` - compiles the minishell executable</br>
+`make clean` - removes all object files</br>
+`make fclean` - removes all object files and the executable</br>
+`make re` - removes all object files and the executable before recompiling the program</br>
 
 In order to run the program, simply run the executable.
 ```bash
